@@ -71,8 +71,6 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
 ### 🧩 ETC
-<!-- Slack -->
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <!-- GitHub Pages -->
 <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub-Pages&logoColor=white"/>
 
