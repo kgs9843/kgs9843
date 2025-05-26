@@ -10,9 +10,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: 프론트엔드 개발자<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: Frontend Engineer<br/>
+  #### :fire: I aim to become a Cloud Full-Stack Engineer.<br/>
+  #### :mortar_board: Incheon National University
   <br/>
   <br/>
   
