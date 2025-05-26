@@ -72,7 +72,8 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <!-- GitHub Pages -->
 <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub-Pages&logoColor=white"/>
-  ## 🤔 Github Stats
+
+## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgs9843)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgs9843)](https://github.com/anuraghazra/github-readme-stats)
