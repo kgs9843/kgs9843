@@ -4,12 +4,32 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: Frontend Engineer<br/>
-  #### :fire: I aim to become a Cloud Full-Stack Engineer.<br/>
-  #### :mortar_board: Incheon National University
+  #### 🧑‍💻 **Frontend Engineer** | aspiring **Cloud Full-Stack Architect**
+  #### 🔥 I specialize in building scalable, cloud-native applications and robust CI/CD pipelines.
+  #### ☁️ Focus: **EKS, Terraform, Kubernetes, and AWS Ecosystem**
+  #### 🎓 **Incheon National University**
   <br/>
   <br/>
+
+## 🏗️ Cloud & DevOps Infrastructure
   
+  ### ☁️ Public Cloud & IaC
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  
+  ### ☸️ Orchestration & Containerization
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
+  ### 🔄 CI/CD & Monitoring
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>
+
+  <br/>
   ## 🧱 Tech Stack
 ### 💻 Language 
 <!-- HTML5 -->
