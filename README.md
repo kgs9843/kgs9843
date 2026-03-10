@@ -31,6 +31,7 @@
 
   <br/>
   ## 🧱 Tech Stack
+ <br/>
 ### 💻 Language 
 <!-- HTML5 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -81,18 +82,6 @@
 <!-- SonarQube -->
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
 
-
-### 🚀 DevOps / Infra
-<!-- Docker -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<!-- Docker Compose -->
-<img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<!-- GitHub Actions -->
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
-<!-- Nginx -->
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<!-- Amazon EC2 -->
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
 ### 🧩 ETC
 <!-- GitHub Pages -->
