@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>
 
   <br/>
-  ## 🧱 Tech Stack
- <br/>
+## 🧱 Tech Stack
 ### 💻 Language 
 <!-- HTML5 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
